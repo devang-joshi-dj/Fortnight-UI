@@ -37,6 +37,7 @@ $default-align: center;
     align-items: $default-align;
     user-select: none;
     color: $secondary-color;
+    font-family: "IBM Plex Sans", sans-serif;
     @include no-selection;
 
     .container {
